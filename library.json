@@ -12,6 +12,7 @@
       "+<Drivers/STM32H7xx_HAL_Driver>",
       "+<Middlewares>",
       "-<Middlewares/Third_Party/FatFs/src/option>",
+      "+<Middlewares/Third_Party/FatFs/src/option/unicode.c>",
       "-<**/*_template.c>"
     ],
     "includeDir": "src",
