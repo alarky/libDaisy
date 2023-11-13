@@ -72,7 +72,8 @@ util/WaveTableLoader \
 # building variables
 ######################################
 DEBUG = 0
-OPT = -O3
+#OPT = -O3
+OPT = -Os
 
 #######################################
 # paths
